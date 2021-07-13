@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "23088bdeacbf5095bd584655d21d1a62"
+build_time: [1625784627, 887113000]
+inputs:
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/Item.swift": [1611672458, 928817011]
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/imcViewController.swift": [1622121627, 479943006]
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/ListaComprasViewController.swift": [1612372996, 871937146]
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/AppDelegate.swift": [1608731907, 334946989]
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/Imc.swift": [1610126857, 642081624]
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/SceneDelegate.swift": [1608731907, 341254328]
+  "/Users/aline.carvalho/Documents/Aprendendo/Aprendendo/ListaTableViewController.swift": [1611663633, 427537605]
